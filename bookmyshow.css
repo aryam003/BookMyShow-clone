@@ -135,11 +135,11 @@ li a{
 }
 .fo h5{
     font-size: 20px;
-    padding-left: 100px;
+    /* padding-left: 100px; */
     color: white;
 }
 .fo h6{
-    padding-left: 300px;
+    /* padding-left: 300px; */
     color: white;
 }
 .icon{
